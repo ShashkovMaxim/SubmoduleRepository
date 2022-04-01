@@ -1,0 +1,5790 @@
+<?xml version="1.0"?>
+<asset assetType="animationClip" duration="3.5">
+	<!--m3c: 0-->
+	<!--vso: 9-->
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa:scale2d" name="static/SC_sofa:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa:pos2d" name="static/SC_sofa:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid:scale2d" name="static/SC_sofa/Close_chest_lid:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.6">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.9">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid:rot2d" name="static/SC_sofa/Close_chest_lid:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_dw:active" name="static/SC_sofa/Gold_dw:active">
+			<timeline>
+				<data second="false">
+					<first time="0.043" />
+				</data>
+				<data second="true">
+					<first time="0.614" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_left:active" name="static/SC_sofa/Gold_left:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.671" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_1:rot2d" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_1:rot2d">
+			<param>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_1:pos2d" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_1:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Chest_box/Close_chest_lid:pos2d" name="static/SC_sofa/Close_chest_lid:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="1.72826" />
+				<key fixedGrad="true" time="1.87807">
+					<value lower="-0.75488" upper="-0.75488" />
+				</key>
+				<key fixedGrad="true" time="2.02781">
+					<lgrad lower="12.9198" upper="12.9198" />
+					<rgrad lower="-7.74932" upper="-7.74932" />
+					<value lower="2.92578" upper="2.92578" />
+				</key>
+				<key fixedGrad="true" time="2.2604" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_1:active" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.048" />
+				</data>
+				<data second="true">
+					<first time="0.142" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_2:active" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_2:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.142" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_3:active" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_3:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.142" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_1:active" name="static/SC_sofa/Gold_left/SC_sofa_gold_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.469" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_2:active" name="static/SC_sofa/Gold_left/SC_sofa_gold_2:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.469" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_3:active" name="static/SC_sofa/Gold_left/SC_sofa_gold_3:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.696" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_4:active" name="static/SC_sofa/Gold_left/SC_sofa_gold_4:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.571" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_5:active" name="static/SC_sofa/Gold_left/SC_sofa_gold_5:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.514" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_6:active" name="static/SC_sofa/Gold_left/SC_sofa_gold_6:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.594" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_gold_left/SC_sofa_gold_6_sh_1:active" name="static/SC_sofa/Sh_gold_left/SC_sofa_gold_6_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.024" />
+				</data>
+				<data second="true">
+					<first time="0.761" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_gold_left/SC_sofa_gold_6_sh_2:active" name="static/SC_sofa/Sh_gold_left/SC_sofa_gold_6_sh_2:active">
+			<timeline>
+				<data second="false">
+					<first time="0.024" />
+				</data>
+				<data second="true">
+					<first time="0.761" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_gold_left/SC_sofa_gold_4_sh_1:active" name="static/SC_sofa/Sh_gold_left/SC_sofa_gold_4_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.024" />
+				</data>
+				<data second="true">
+					<first time="0.761" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_gold_left/SC_sofa_gold_5_sh_1:active" name="static/SC_sofa/Sh_gold_left/SC_sofa_gold_5_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.019" />
+				</data>
+				<data second="true">
+					<first time="0.761" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_7:active" name="static/SC_sofa/Gold_dw/SC_sofa_gold_7:active">
+			<timeline>
+				<data second="false">
+					<first time="0.024" />
+				</data>
+				<data second="true">
+					<first time="0.658" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_8:active" name="static/SC_sofa/Gold_dw/SC_sofa_gold_8:active">
+			<timeline>
+				<data second="false">
+					<first time="0.024" />
+				</data>
+				<data second="true">
+					<first time="0.658" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_9:active" name="static/SC_sofa/Gold_dw/SC_sofa_gold_9:active">
+			<timeline>
+				<data second="false">
+					<first time="0.019" />
+				</data>
+				<data second="true">
+					<first time="0.663" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_10:active" name="static/SC_sofa/Gold_dw/SC_sofa_gold_10:active">
+			<timeline>
+				<data second="false">
+					<first time="0.019" />
+				</data>
+				<data second="true">
+					<first time="0.701" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_11:active" name="static/SC_sofa/Gold_dw/SC_sofa_gold_11:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.706" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_12:active" name="static/SC_sofa/Gold_dw/SC_sofa_gold_12:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.706" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_13:active" name="static/SC_sofa/Gold_dw/SC_sofa_gold_13:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.54" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_14:active" name="static/SC_sofa/Gold_dw/SC_sofa_gold_14:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.606" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_15:active" name="static/SC_sofa/Gold_dw/SC_sofa_gold_15:active">
+			<timeline>
+				<data second="false">
+					<first time="0.019" />
+				</data>
+				<data second="true">
+					<first time="0.616" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_16:active" name="static/SC_sofa/Gold_dw/SC_sofa_gold_16:active">
+			<timeline>
+				<data second="false">
+					<first time="0.019" />
+				</data>
+				<data second="true">
+					<first time="0.663" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_13_sh_1:active" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_13_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.752" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_9_sh_1:active" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_9_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.747" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_10_sh_1:active" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_10_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.019" />
+				</data>
+				<data second="true">
+					<first time="0.752" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_14_sh_1:active" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_14_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.804" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_15_sh_1:active" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_15_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.804" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Coin_right/SC_sofa_gold_17:active" name="static/SC_sofa/Coin_right/SC_sofa_gold_17:active">
+			<timeline>
+				<data second="false">
+					<first time="0.024" />
+				</data>
+				<data second="true">
+					<first time="0.503" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Coin_right/SC_sofa_gold_18:active" name="static/SC_sofa/Coin_right/SC_sofa_gold_18:active">
+			<timeline>
+				<data second="false">
+					<first time="0.019" />
+				</data>
+				<data second="true">
+					<first time="0.531" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Coin_right/SC_sofa_gold_19:active" name="static/SC_sofa/Coin_right/SC_sofa_gold_19:active">
+			<timeline>
+				<data second="false">
+					<first time="0.019" />
+				</data>
+				<data second="true">
+					<first time="0.488" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_coin_right/SC_sofa_gold_19_sh_1:active" name="static/SC_sofa/Sh_coin_right/SC_sofa_gold_19_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.048" />
+				</data>
+				<data second="true">
+					<first time="0.589" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_coin_right/SC_sofa_gold_18_sh_2:active" name="static/SC_sofa/Sh_coin_right/SC_sofa_gold_18_sh_2:active">
+			<timeline>
+				<data second="false">
+					<first time="0.048" />
+				</data>
+				<data second="true">
+					<first time="0.589" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_coin_right/SC_sofa_gold_17_sh_1:active" name="static/SC_sofa/Sh_coin_right/SC_sofa_gold_17_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.043" />
+				</data>
+				<data second="true">
+					<first time="0.589" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sh_coin_right/SC_sofa_gold_18_sh_1:active" name="static/SC_sofa/Sh_coin_right/SC_sofa_gold_18_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.043" />
+				</data>
+				<data second="true">
+					<first time="0.589" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Chest_box/SC_sofa_gold_25_sh_1:active" name="static/SC_sofa/Chest_box/SC_sofa_gold_25_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.043" />
+				</data>
+				<data second="true">
+					<first time="0.705" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Chest_box/SC_sofa_chest_1:active" name="static/SC_sofa/Chest_box/SC_sofa_chest_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.142" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Chest_box/SC_sofa_chest_2:active" name="static/SC_sofa/Chest_box/SC_sofa_chest_2:active">
+			<timeline>
+				<data second="false">
+					<first time="0.005" />
+				</data>
+				<data second="true">
+					<first time="0.142" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/SC_sofa_chest_1_sh_1:active" name="static/SC_sofa/SC_sofa_chest_1_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.043" />
+				</data>
+				<data second="true">
+					<first time="0.138" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_20:active" name="static/SC_sofa/Golde_main/SC_sofa_gold_20:active">
+			<timeline>
+				<data second="false">
+					<first time="0.043" />
+				</data>
+				<data second="true">
+					<first time="0.519" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_21:active" name="static/SC_sofa/Golde_main/SC_sofa_gold_21:active">
+			<timeline>
+				<data second="false">
+					<first time="0.043" />
+				</data>
+				<data second="true">
+					<first time="0.524" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_22:active" name="static/SC_sofa/Golde_main/SC_sofa_gold_22:active">
+			<timeline>
+				<data second="false">
+					<first time="0.038" />
+				</data>
+				<data second="true">
+					<first time="0.524" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_23:active" name="static/SC_sofa/Golde_main/SC_sofa_gold_23:active">
+			<timeline>
+				<data second="false">
+					<first time="0.038" />
+				</data>
+				<data second="true">
+					<first time="0.524" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_24:active" name="static/SC_sofa/Golde_main/SC_sofa_gold_24:active">
+			<timeline>
+				<data second="false">
+					<first time="0.048" />
+				</data>
+				<data second="true">
+					<first time="0.524" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_25:active" name="static/SC_sofa/Golde_main/SC_sofa_gold_25:active">
+			<timeline>
+				<data second="false">
+					<first time="0.043" />
+				</data>
+				<data second="true">
+					<first time="0.529" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_3:active" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_3:active">
+			<timeline>
+				<data second="false">
+					<first time="0.043" />
+				</data>
+				<data second="true">
+					<first time="0.552" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_4:active" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_4:active">
+			<timeline>
+				<data second="false">
+					<first time="0.043" />
+				</data>
+				<data second="true">
+					<first time="0.552" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_5:active" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_5:active">
+			<timeline>
+				<data second="false">
+					<first time="0.043" />
+				</data>
+				<data second="true">
+					<first time="0.552" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/SC_sofa_chest_3_sh_1:active" name="static/SC_sofa/SC_sofa_chest_3_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.024" />
+				</data>
+				<data second="true">
+					<first time="0.589" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_3:active" name="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_3:active">
+			<timeline>
+				<data second="true">
+					<first time="0.005" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_5:active" name="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_5:active">
+			<timeline>
+				<data second="true">
+					<first time="0.005" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_6:active" name="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_6:active">
+			<timeline>
+				<data second="true">
+					<first time="0.005" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sofa_main/SC_sofa_2:active" name="static/SC_sofa/Sofa_main/SC_sofa_2:active">
+			<timeline>
+				<data second="true">
+					<first time="0.005" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sofa_main/Right/SC_sofa_1:active" name="static/SC_sofa/Sofa_main/Right/SC_sofa_1:active">
+			<timeline>
+				<data second="true">
+					<first time="0.005" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sofa_main/Right/SC_sofa_4:active" name="static/SC_sofa/Sofa_main/Right/SC_sofa_4:active">
+			<timeline>
+				<data second="true">
+					<first time="0.048" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sofa_main/Left/SC_sofa_7:active" name="static/SC_sofa/Sofa_main/Left/SC_sofa_7:active">
+			<timeline>
+				<data second="true">
+					<first time="0.005" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Sofa_main/Left/SC_sofa_8:active" name="static/SC_sofa/Sofa_main/Left/SC_sofa_8:active">
+			<timeline>
+				<data second="true">
+					<first time="0.005" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/SC_sofa_2_sh_1:active" name="static/SC_sofa/SC_sofa_2_sh_1:active">
+			<timeline>
+				<data second="true">
+					<first time="0.005" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_1@customParallaxSprite:alpha" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.483" />
+				<key fixedGrad="true" time="0.567">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" rightCurveMode="Linear" time="2.05934">
+					<rgrad lower="-35.0" upper="-35.0" />
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.15988" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_2@customParallaxSprite:alpha" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_2@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.483" />
+				<key fixedGrad="true" time="0.567">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" rightCurveMode="Linear" time="2.05967">
+					<rgrad lower="-35.0" upper="-35.0" />
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.16021" />
+				<key fixedGrad="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_3@customParallaxSprite:alpha" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_3@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.483" />
+				<key fixedGrad="true" time="0.567">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" rightCurveMode="Linear" time="2.05967">
+					<rgrad lower="-35.0" upper="-35.0" />
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.16021" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_1@customParallaxSprite:alpha" name="static/SC_sofa/Gold_left/SC_sofa_gold_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.32928" />
+				<key fixedGrad="true" time="2.48017">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_2@customParallaxSprite:alpha" name="static/SC_sofa/Gold_left/SC_sofa_gold_2@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.21351" />
+				<key fixedGrad="true" time="2.37997">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_3@customParallaxSprite:alpha" name="static/SC_sofa/Gold_left/SC_sofa_gold_3@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.18024" />
+				<key fixedGrad="true" time="2.32984">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_4@customParallaxSprite:alpha" name="static/SC_sofa/Gold_left/SC_sofa_gold_4@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.3798" />
+				<key fixedGrad="true" time="2.54632">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_5@customParallaxSprite:alpha" name="static/SC_sofa/Gold_left/SC_sofa_gold_5@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.25" />
+				<key fixedGrad="true" time="2.43333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_6@customParallaxSprite:alpha" name="static/SC_sofa/Gold_left/SC_sofa_gold_6@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.08333" />
+				<key fixedGrad="true" time="2.23333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_gold_left/SC_sofa_gold_6_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Sh_gold_left/SC_sofa_gold_6_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.63092" />
+				<key fixedGrad="true" time="2.7984">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_gold_left/SC_sofa_gold_6_sh_2@customParallaxSprite:alpha" name="static/SC_sofa/Sh_gold_left/SC_sofa_gold_6_sh_2@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.63092" />
+				<key fixedGrad="true" time="2.7984">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_gold_left/SC_sofa_gold_4_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Sh_gold_left/SC_sofa_gold_4_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.63092" />
+				<key fixedGrad="true" time="2.79854">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_gold_left/SC_sofa_gold_5_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Sh_gold_left/SC_sofa_gold_5_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.63092" />
+				<key fixedGrad="true" time="2.7984">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_7@customParallaxSprite:alpha" name="static/SC_sofa/Gold_dw/SC_sofa_gold_7@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.25374" />
+				<key fixedGrad="true" time="2.38638">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_8@customParallaxSprite:alpha" name="static/SC_sofa/Gold_dw/SC_sofa_gold_8@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.09953" />
+				<key fixedGrad="true" time="2.23204">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_9@customParallaxSprite:alpha" name="static/SC_sofa/Gold_dw/SC_sofa_gold_9@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.09965" />
+				<key fixedGrad="true" time="2.23208">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_10@customParallaxSprite:alpha" name="static/SC_sofa/Gold_dw/SC_sofa_gold_10@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.30365" />
+				<key fixedGrad="true" time="2.5">
+					<value lower="1.00098" upper="1.00098" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.00098" upper="1.00098" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_11@customParallaxSprite:alpha" name="static/SC_sofa/Gold_dw/SC_sofa_gold_11@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.85039" />
+				<key fixedGrad="true" time="2.98297">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_12@customParallaxSprite:alpha" name="static/SC_sofa/Gold_dw/SC_sofa_gold_12@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.83333" />
+				<key fixedGrad="true" time="2.98333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_13@customParallaxSprite:alpha" name="static/SC_sofa/Gold_dw/SC_sofa_gold_13@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.43625" />
+				<key fixedGrad="true" time="2.56883">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_14@customParallaxSprite:alpha" name="static/SC_sofa/Gold_dw/SC_sofa_gold_14@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.1047" />
+				<key fixedGrad="true" time="2.23729">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_15@customParallaxSprite:alpha" name="static/SC_sofa/Gold_dw/SC_sofa_gold_15@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.10475" />
+				<key fixedGrad="true" time="2.23735">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_16@customParallaxSprite:alpha" name="static/SC_sofa/Gold_dw/SC_sofa_gold_16@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.09964" />
+				<key fixedGrad="true" time="2.23197">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_13_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_13_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.72967" />
+				<key fixedGrad="true" time="3.1">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_9_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_9_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.66457" />
+				<key fixedGrad="true" time="2.76505">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_10_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_10_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.66457" />
+				<key fixedGrad="true" time="2.76505">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_14_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_14_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.84891" />
+				<key fixedGrad="true" time="3.01642">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_15_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_15_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.66457" />
+				<key fixedGrad="true" time="2.76505">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Coin_right/SC_sofa_gold_17@customParallaxSprite:alpha" name="static/SC_sofa/Coin_right/SC_sofa_gold_17@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.48012" />
+				<key fixedGrad="true" time="2.58073">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Coin_right/SC_sofa_gold_18@customParallaxSprite:alpha" name="static/SC_sofa/Coin_right/SC_sofa_gold_18@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.28333" />
+				<key fixedGrad="true" time="2.38333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Coin_right/SC_sofa_gold_19@customParallaxSprite:alpha" name="static/SC_sofa/Coin_right/SC_sofa_gold_19@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.06361" />
+				<key fixedGrad="true" time="2.1638">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_coin_right/SC_sofa_gold_19_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Sh_coin_right/SC_sofa_gold_19_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.37959" />
+				<key fixedGrad="true" time="2.59761">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_coin_right/SC_sofa_gold_18_sh_2@customParallaxSprite:alpha" name="static/SC_sofa/Sh_coin_right/SC_sofa_gold_18_sh_2@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.37971" />
+				<key fixedGrad="true" time="2.59734">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_coin_right/SC_sofa_gold_17_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Sh_coin_right/SC_sofa_gold_17_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.37971" />
+				<key fixedGrad="true" time="2.59734">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sh_coin_right/SC_sofa_gold_18_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Sh_coin_right/SC_sofa_gold_18_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.37971" />
+				<key fixedGrad="true" time="2.59734">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Chest_box/SC_sofa_gold_25_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Chest_box/SC_sofa_gold_25_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.33402" />
+				<key fixedGrad="true" time="2.71667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Chest_box/SC_sofa_chest_1@customParallaxSprite:alpha" name="static/SC_sofa/Chest_box/SC_sofa_chest_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.483" />
+				<key fixedGrad="true" time="0.567">
+					<value lower="0.997" upper="0.997" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="0.997" upper="0.997" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Chest_box/SC_sofa_chest_2@customParallaxSprite:alpha" name="static/SC_sofa/Chest_box/SC_sofa_chest_2@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.48333" />
+				<key fixedGrad="true" time="0.56667">
+					<value lower="0.99707" upper="0.99707" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="0.99707" upper="0.99707" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/SC_sofa_chest_1_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/SC_sofa_chest_1_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.76667" />
+				<key fixedGrad="true" time="0.93333">
+					<value lower="0.99902" upper="0.99902" />
+				</key>
+				<key fixedGrad="true" time="1.72618">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.91046">
+					<value lower="0.64941" upper="0.64941" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="2.09475">
+					<lgrad lower="6.6932" upper="6.6932" />
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_20@customParallaxSprite:alpha" name="static/SC_sofa/Golde_main/SC_sofa_gold_20@customParallaxSprite:alpha">
+			<param>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_21@customParallaxSprite:alpha" name="static/SC_sofa/Golde_main/SC_sofa_gold_21@customParallaxSprite:alpha">
+			<param>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_22@customParallaxSprite:alpha" name="static/SC_sofa/Golde_main/SC_sofa_gold_22@customParallaxSprite:alpha">
+			<param>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_23@customParallaxSprite:alpha" name="static/SC_sofa/Golde_main/SC_sofa_gold_23@customParallaxSprite:alpha">
+			<param>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_24@customParallaxSprite:alpha" name="static/SC_sofa/Golde_main/SC_sofa_gold_24@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.76667" />
+				<key fixedGrad="true" time="2.91667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_25@customParallaxSprite:alpha" name="static/SC_sofa/Golde_main/SC_sofa_gold_25@customParallaxSprite:alpha">
+			<param>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_3@customParallaxSprite:alpha" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_3@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="1.9972" />
+				<key fixedGrad="true" time="2.13056">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_4@customParallaxSprite:alpha" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_4@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="1.9974" />
+				<key fixedGrad="true" time="2.13054">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_5@customParallaxSprite:alpha" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_5@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="1.9974" />
+				<key fixedGrad="true" time="2.13054">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/SC_sofa_chest_3_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/SC_sofa_chest_3_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="1.91046" />
+				<key fixedGrad="true" time="2.24571">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_3@customParallaxSprite:alpha" name="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_3@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_5@customParallaxSprite:alpha" name="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_5@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_6@customParallaxSprite:alpha" name="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_6@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/SC_sofa_2@customParallaxSprite:alpha" name="static/SC_sofa/Sofa_main/SC_sofa_2@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Right/SC_sofa_1@customParallaxSprite:alpha" name="static/SC_sofa/Sofa_main/Right/SC_sofa_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Right/SC_sofa_4@customParallaxSprite:alpha" name="static/SC_sofa/Sofa_main/Right/SC_sofa_4@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Left/SC_sofa_7@customParallaxSprite:alpha" name="static/SC_sofa/Sofa_main/Left/SC_sofa_7@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Left/SC_sofa_8@customParallaxSprite:alpha" name="static/SC_sofa/Sofa_main/Left/SC_sofa_8@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/SC_sofa_2_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/SC_sofa_2_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true">
+					<rgrad lower="0.28716" upper="0.28716" />
+				</key>
+				<key fixedGrad="true" time="0.31667">
+					<value lower="0.44434" upper="0.44434" />
+				</key>
+				<key fixedGrad="true" time="0.38333">
+					<lgrad lower="8.10192" upper="8.10192" />
+					<value lower="0.99902" upper="0.99902" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_1:scale2d" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_1:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_3:rot2d" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_3:rot2d">
+			<param>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_3:scale2d" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_3:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_left:scale2d" name="static/SC_sofa/Gold_left:scale2d">
+			<x>
+				<key fixedGrad="true" imaginary="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.01667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.03333">
+					<value lower="0.09961" upper="0.09961" />
+				</key>
+				<key fixedGrad="true" time="2.24671">
+					<value lower="0.09961" upper="0.09961" />
+				</key>
+				<key fixedGrad="true" time="2.41339">
+					<value lower="1.101" upper="1.101" />
+				</key>
+				<key fixedGrad="true" time="2.4799">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.01667">
+					<value lower="0.09961" upper="0.09961" />
+				</key>
+				<key fixedGrad="true" time="2.24699">
+					<value lower="0.09961" upper="0.09961" />
+				</key>
+				<key fixedGrad="true" time="2.41341">
+					<value lower="1.101" upper="1.101" />
+				</key>
+				<key fixedGrad="true" time="2.48333">
+					<value lower="0.94434" upper="0.94434" />
+				</key>
+				<key fixedGrad="true" time="2.55">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_6:scale2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_6:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_5:rot2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_5:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.48333" />
+				<key fixedGrad="true" time="2.68333">
+					<value lower="-12.9268" upper="-12.9268" />
+				</key>
+				<key fixedGrad="true" time="2.88333">
+					<value lower="0.64746" upper="0.64746" />
+				</key>
+				<key fixedGrad="true" time="3.13333" />
+				<key fixedGrad="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_5:scale2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_5:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.48333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_4:rot2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_4:rot2d">
+			<param>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_4:scale2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_4:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_3:rot2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_3:rot2d">
+			<param>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_3:scale2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_3:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_2:rot2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_2:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.26363" />
+				<key fixedGrad="true" time="2.44639">
+					<value lower="6.29004" upper="6.29004" />
+				</key>
+				<key fixedGrad="true" time="2.54644" />
+				<key fixedGrad="true" time="3.483" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_2:scale2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_2:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_1:rot2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_1:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.32928" />
+				<key fixedGrad="true" time="2.42986">
+					<value lower="99.0557" upper="99.0557" />
+				</key>
+				<key fixedGrad="true" time="2.61436" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_left/SC_sofa_gold_1:scale2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_1:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sh_gold_left/SC_sofa_gold_6_sh_1:scale2d" name="static/SC_sofa/Sh_gold_left/SC_sofa_gold_6_sh_1:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sh_gold_left/SC_sofa_gold_6_sh_2:scale2d" name="static/SC_sofa/Sh_gold_left/SC_sofa_gold_6_sh_2:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sh_gold_left/SC_sofa_gold_4_sh_1:scale2d" name="static/SC_sofa/Sh_gold_left/SC_sofa_gold_4_sh_1:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sh_gold_left/SC_sofa_gold_5_sh_1:scale2d" name="static/SC_sofa/Sh_gold_left/SC_sofa_gold_5_sh_1:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_15:scale2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_15:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_7:scale2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_7:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_7:rot2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_7:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.33677" />
+				<key fixedGrad="true" time="2.50241">
+					<value lower="12.9346" upper="12.9346" />
+				</key>
+				<key fixedGrad="true" time="3.03287" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_8:rot2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_8:rot2d">
+			<param>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_8:scale2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_8:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_9:rot2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_9:rot2d">
+			<param>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_9:scale2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_9:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_10:rot2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_10:rot2d">
+			<param>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_10:scale2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_10:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_11:rot2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_11:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.5355" />
+				<key fixedGrad="true" time="2.80065">
+					<value lower="-45.6758" upper="-45.6758" />
+				</key>
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_11:scale2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_11:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_12:rot2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_12:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.5" />
+				<key fixedGrad="true" time="2.78333">
+					<value lower="248.421" upper="248.421" />
+				</key>
+				<key fixedGrad="true" time="3.06667" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_12:scale2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_12:scale2d">
+			<x>
+				<key fixedGrad="true" imaginary="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_13:rot2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_13:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.66824" />
+				<key fixedGrad="true" time="2.81722">
+					<value lower="-52.6875" upper="-52.6875" />
+				</key>
+				<key fixedGrad="true" time="3.14869" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_13:scale2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_13:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_14:rot2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_14:rot2d">
+			<param>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_14:scale2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_14:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.30345">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.48575">
+					<value lower="0.93164" upper="0.93164" />
+				</key>
+				<key fixedGrad="true" time="2.75111">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.48333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_16:rot2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_16:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.23333" />
+				<key fixedGrad="true" time="2.48333">
+					<value lower="-114.714" upper="-114.714" />
+				</key>
+				<key fixedGrad="true" time="2.71667" />
+				<key fixedGrad="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_dw/SC_sofa_gold_16:scale2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_16:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_13_sh_1:scale2d" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_13_sh_1:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_9_sh_1:scale2d" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_9_sh_1:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_10_sh_1:scale2d" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_10_sh_1:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_14_sh_1:scale2d" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_14_sh_1:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_15_sh_1:scale2d" name="static/SC_sofa/Sh_gold_dw/SC_sofa_gold_15_sh_1:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Coin_right/SC_sofa_gold_17:rot2d" name="static/SC_sofa/Coin_right/SC_sofa_gold_17:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.09464" />
+				<key fixedGrad="true" time="2.23045">
+					<value lower="292.627" upper="292.627" />
+				</key>
+				<key fixedGrad="true" time="2.58091" />
+				<key fixedGrad="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Coin_right/SC_sofa_gold_17:scale2d" name="static/SC_sofa/Coin_right/SC_sofa_gold_17:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Coin_right/SC_sofa_gold_18:rot2d" name="static/SC_sofa/Coin_right/SC_sofa_gold_18:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.1954" />
+				<key fixedGrad="true" time="2.33003">
+					<value lower="471.312" upper="471.312" />
+				</key>
+				<key fixedGrad="true" time="2.74824" />
+				<key fixedGrad="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Coin_right/SC_sofa_gold_18:scale2d" name="static/SC_sofa/Coin_right/SC_sofa_gold_18:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Coin_right/SC_sofa_gold_19:rot2d" name="static/SC_sofa/Coin_right/SC_sofa_gold_19:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.1">
+					<value lower="447.48" upper="447.48" />
+				</key>
+				<key fixedGrad="true" time="1.98333">
+					<value lower="447.48" upper="447.48" />
+				</key>
+				<key fixedGrad="true" time="2.38333" />
+				<key fixedGrad="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Coin_right/SC_sofa_gold_19:scale2d" name="static/SC_sofa/Coin_right/SC_sofa_gold_19:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.48333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.483">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Chest_box/SC_sofa_chest_1:scale2d" name="static/SC_sofa/Chest_box/SC_sofa_chest_1:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Chest_box/SC_sofa_chest_2:scale2d" name="static/SC_sofa/Chest_box/SC_sofa_chest_2:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.66842">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Gold_dw:scale2d" name="static/SC_sofa/Gold_dw:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.03333">
+					<value lower="0.41113" upper="0.41113" />
+				</key>
+				<key fixedGrad="true" time="2.21547">
+					<value lower="0.411" upper="0.411" />
+				</key>
+				<key fixedGrad="true" time="2.41387">
+					<value lower="1.05" upper="1.05" />
+				</key>
+				<key fixedGrad="true" time="2.48333">
+					<value lower="0.98145" upper="0.98145" />
+				</key>
+				<key fixedGrad="true" time="2.61667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.01667">
+					<value lower="0.41113" upper="0.41113" />
+				</key>
+				<key fixedGrad="true" time="2.23204">
+					<value lower="0.41113" upper="0.41113" />
+				</key>
+				<key fixedGrad="true" time="2.43035">
+					<value lower="1.0498" upper="1.0498" />
+				</key>
+				<key fixedGrad="true" time="2.53333">
+					<value lower="0.97559" upper="0.97559" />
+				</key>
+				<key fixedGrad="true" time="2.66667">
+					<value lower="1.00098" upper="1.00098" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Golde_main:scale2d" name="static/SC_sofa/Golde_main:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.66448">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.76667">
+					<value lower="0.94727" upper="0.94727" />
+				</key>
+				<key fixedGrad="true" time="1.99703">
+					<value lower="0.94727" upper="0.94727" />
+				</key>
+				<key fixedGrad="true" time="2.13023">
+					<value lower="1.05078" upper="1.05078" />
+				</key>
+				<key fixedGrad="true" time="2.25">
+					<value lower="0.97852" upper="0.97852" />
+				</key>
+				<key fixedGrad="true" time="2.4">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Open_chest_lid:rot2d" name="static/SC_sofa/Open_chest_lid:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.22887" />
+				<key fixedGrad="true" time="2.41318">
+					<value lower="0.91113" upper="0.91113" />
+				</key>
+				<key fixedGrad="true" time="2.59736" />
+				<key fixedGrad="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Open_chest_lid:scale2d" name="static/SC_sofa/Open_chest_lid:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.12837">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.3125">
+					<value lower="0.88574" upper="0.88574" />
+				</key>
+				<key fixedGrad="true" time="2.48017">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.12818">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.3125">
+					<value lower="0.89063" upper="0.89063" />
+				</key>
+				<key fixedGrad="true" time="2.48023">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sofa_main:scale2d" name="static/SC_sofa/Sofa_main:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="0.09961" upper="0.09961" />
+				</key>
+				<key fixedGrad="true" time="0.215504">
+					<value lower="1.2002" upper="1.2002" />
+				</key>
+				<key fixedGrad="true" time="0.38333">
+					<rgrad lower="0.8737" upper="0.8737" />
+					<value lower="0.93945" upper="0.93945" />
+				</key>
+				<key fixedGrad="true" time="0.55">
+					<value lower="1.01172" upper="1.01172" />
+				</key>
+				<key fixedGrad="true" time="0.74681">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="0.09961" upper="0.09961" />
+				</key>
+				<key fixedGrad="true" time="0.21667">
+					<value lower="1.2002" upper="1.2002" />
+				</key>
+				<key fixedGrad="true" time="0.400138">
+					<rgrad lower="1.36851" upper="1.36851" />
+					<value lower="0.93945" upper="0.93945" />
+				</key>
+				<key fixedGrad="true" time="0.56676">
+					<value lower="1.01172" upper="1.01172" />
+				</key>
+				<key fixedGrad="true" time="0.76679">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Sofa_back:rot2d" name="static/SC_sofa/Sofa_main/Sofa_back:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sofa_main/Sofa_back:scale2d" name="static/SC_sofa/Sofa_main/Sofa_back:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_3:scale2d" name="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_3:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.71667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.843102">
+					<value lower="0.96191" upper="0.96191" />
+				</key>
+				<key fixedGrad="true" time="0.977906">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_5:scale2d" name="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_5:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.0">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.151">
+					<value lower="1.02" upper="1.02" />
+				</key>
+				<key fixedGrad="true" time="2.32">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.71667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.85">
+					<value lower="0.97754" upper="0.97754" />
+				</key>
+				<key fixedGrad="true" time="0.977865">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.96667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.11767">
+					<value lower="0.969" upper="0.969" />
+				</key>
+				<key fixedGrad="true" time="2.28667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_6:scale2d" name="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_6:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.18333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.33333">
+					<value lower="1.05762" upper="1.05762" />
+				</key>
+				<key fixedGrad="true" time="0.46667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.88333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.0">
+					<value lower="1.04395" upper="1.04395" />
+				</key>
+				<key fixedGrad="true" time="1.13333">
+					<value lower="0.98926" upper="0.98926" />
+				</key>
+				<key fixedGrad="true" time="1.26667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.08333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.21667">
+					<value lower="1.02734" upper="1.02734" />
+				</key>
+				<key fixedGrad="true" time="2.38333">
+					<value lower="0.99219" upper="0.99219" />
+				</key>
+				<key fixedGrad="true" time="2.55">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.149023">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.28333">
+					<value lower="0.95215" upper="0.95215" />
+				</key>
+				<key fixedGrad="true" time="0.43333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.1">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.21667">
+					<value lower="0.98242" upper="0.98242" />
+				</key>
+				<key fixedGrad="true" time="2.38333">
+					<value lower="1.00586" upper="1.00586" />
+				</key>
+				<key fixedGrad="true" time="2.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.48333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sofa_main/SC_sofa_2:scale2d" name="static/SC_sofa/Sofa_main/SC_sofa_2:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.866664">
+					<rgrad lower="1.28158" upper="1.28158" />
+					<value lower="1.00098" upper="1.00098" />
+				</key>
+				<key fixedGrad="true" time="0.983337">
+					<value lower="1.05078" upper="1.05078" />
+				</key>
+				<key fixedGrad="true" time="1.11666">
+					<value lower="0.99707" upper="0.99707" />
+				</key>
+				<key fixedGrad="true" time="1.21666">
+					<value lower="1.00098" upper="1.00098" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.00098" upper="1.00098" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.866664">
+					<rgrad lower="-1.90303" upper="-1.90303" />
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.983337">
+					<lgrad lower="-0.02188" upper="-0.02188" />
+					<value lower="0.9502" upper="0.9502" />
+				</key>
+				<key fixedGrad="true" time="1.11666">
+					<lgrad lower="0.01999" upper="0.01999" />
+					<value lower="1.00488" upper="1.00488" />
+				</key>
+				<key fixedGrad="true" time="1.21666">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.06667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.21667">
+					<value lower="0.95313" upper="0.95313" />
+				</key>
+				<key fixedGrad="true" time="2.38333">
+					<lgrad lower="-0.01706" upper="-0.01706" />
+					<value lower="1.00488" upper="1.00488" />
+				</key>
+				<key fixedGrad="true" time="2.55">
+					<lgrad lower="-0.01706" upper="-0.01706" />
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Right:rot2d" name="static/SC_sofa/Sofa_main/Right:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.1505" />
+				<key fixedGrad="true" time="0.268156">
+					<value lower="-4.03809" upper="-4.03809" />
+				</key>
+				<key fixedGrad="true" time="0.43333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sofa_main/Right:scale2d" name="static/SC_sofa/Sofa_main/Right:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Left:rot2d" name="static/SC_sofa/Sofa_main/Left:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.15" />
+				<key fixedGrad="true" time="0.268156">
+					<value lower="1.48828" upper="1.48828" />
+				</key>
+				<key fixedGrad="true" time="0.45" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sofa_main/Left:scale2d" name="static/SC_sofa/Sofa_main/Left:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Chest_box/SC_sofa_chest_1:pos2d" name="static/SC_sofa/Chest_box/SC_sofa_chest_1:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Chest_box/SC_sofa_chest_2:pos2d" name="static/SC_sofa/Chest_box/SC_sofa_chest_2:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Chest_box:pos2d" name="static/SC_sofa/Chest_box:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" rightCurveMode="Linear" time="1.23333">
+					<rgrad lower="-14.07" upper="-14.07" />
+				</key>
+				<key fixedGrad="true" time="1.33333">
+					<value lower="-0.402" upper="-0.402" />
+				</key>
+				<key fixedGrad="true" time="1.46667">
+					<value lower="1.27637" upper="1.27637" />
+				</key>
+				<key fixedGrad="true" time="1.61667">
+					<value lower="-1.45898" upper="-1.45898" />
+				</key>
+				<key fixedGrad="true" time="1.76667">
+					<value lower="1.24707" upper="1.24707" />
+				</key>
+				<key fixedGrad="true" time="1.88333">
+					<value lower="-0.40234" upper="-0.40234" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.99702">
+					<lgrad lower="12.3862" upper="12.3862" />
+				</key>
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.41667" />
+				<key fixedGrad="true" leftCurveMode="Linear" time="0.48333">
+					<lgrad lower="11789.3" upper="11789.3" />
+					<rgrad lower="50.9403" upper="50.9403" />
+					<value lower="224.538" upper="224.538" />
+				</key>
+				<key fixedGrad="true" time="0.66667">
+					<lgrad lower="-226.433" upper="-226.433" />
+					<rgrad lower="-67.5461" upper="-67.5461" />
+					<value lower="219.484" upper="219.484" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="0.85">
+					<lgrad lower="-4241.8" upper="-4241.8" />
+					<rgrad lower="-411.994" upper="-411.994" />
+					<value lower="-2.70117" upper="-2.70117" />
+				</key>
+				<key fixedGrad="true" time="1.0">
+					<lgrad lower="1.13809" upper="1.13809" />
+					<rgrad lower="1.68739" upper="1.68739" />
+					<value lower="-10.4951" upper="-10.4951" />
+				</key>
+				<key fixedGrad="true" time="1.2">
+					<lgrad lower="-0.14139" upper="-0.14139" />
+					<rgrad lower="-2.10615" upper="-2.10615" />
+					<value lower="1.42578" upper="1.42578" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.38333">
+					<lgrad lower="-27.1827" upper="-27.1827" />
+				</key>
+				<key fixedGrad="true" time="1.85" />
+				<key fixedGrad="true" time="2.0">
+					<value lower="26.21" upper="26.21" />
+				</key>
+				<key fixedGrad="true" time="2.13333">
+					<lgrad lower="-238.285" upper="-238.285" />
+					<value lower="-4.1582" upper="-4.1582" />
+				</key>
+				<key fixedGrad="true" time="2.2">
+					<value lower="-5.29297" upper="-5.29297" />
+				</key>
+				<key fixedGrad="true" time="2.36667" />
+				<key fixedGrad="true" time="3.49528" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_2:pos2d" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_2:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_3:pos2d" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_3:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Coin_right/SC_sofa_gold_17:pos2d" name="static/SC_sofa/Coin_right/SC_sofa_gold_17:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.09464" />
+				<key fixedGrad="true" time="2.2303">
+					<value lower="32.1465" upper="32.1465" />
+				</key>
+				<key fixedGrad="true" time="2.58091" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Coin_right/SC_sofa_gold_18:pos2d" name="static/SC_sofa/Coin_right/SC_sofa_gold_18:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.1954" />
+				<key fixedGrad="true" time="2.32998">
+					<value lower="32.146" upper="32.146" />
+				</key>
+				<key fixedGrad="true" time="2.74824" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Coin_right/SC_sofa_gold_19:pos2d" name="static/SC_sofa/Coin_right/SC_sofa_gold_19:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.03333">
+					<value lower="74.75" upper="74.75" />
+				</key>
+				<key fixedGrad="true" time="2.16667">
+					<value lower="74.751" upper="74.751" />
+				</key>
+				<key fixedGrad="true" time="2.53333">
+					<value lower="-1.88184" upper="-1.88184" />
+				</key>
+				<key fixedGrad="true" time="2.76667" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_dw/SC_sofa_gold_10:pos2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_10:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.03333">
+					<value lower="-6.226" upper="-6.226" />
+				</key>
+				<key fixedGrad="true" time="2.36667">
+					<value lower="-6.22656" upper="-6.22656" />
+				</key>
+				<key fixedGrad="true" time="2.55" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.03333">
+					<value lower="1.68945" upper="1.68945" />
+				</key>
+				<key fixedGrad="true" time="2.4">
+					<value lower="1.68945" upper="1.68945" />
+				</key>
+				<key fixedGrad="true" time="2.55" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_dw/SC_sofa_gold_11:pos2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_11:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.05">
+					<value lower="7.13867" upper="7.13867" />
+				</key>
+				<key fixedGrad="true" time="2.86706">
+					<value lower="7.13965" upper="7.13965" />
+				</key>
+				<key fixedGrad="true" time="3.47349" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.06667">
+					<value lower="1.92285" upper="1.92285" />
+				</key>
+				<key fixedGrad="true" time="2.88373">
+					<value lower="1.92285" upper="1.92285" />
+				</key>
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" time="3.49016" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_dw/SC_sofa_gold_12:pos2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_12:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.76757" />
+				<key fixedGrad="true" time="2.9">
+					<rgrad lower="21.9095" upper="21.9095" />
+					<value lower="87.1455" upper="87.1455" />
+				</key>
+				<key fixedGrad="true" time="3.11564">
+					<lgrad lower="-1658.75" upper="-1658.75" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_dw/SC_sofa_gold_13:pos2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_13:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.36996" />
+				<key fixedGrad="true" time="2.5355">
+					<value lower="19.8867" upper="19.8867" />
+				</key>
+				<key fixedGrad="true" time="3.03287" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.53548" />
+				<key fixedGrad="true" time="2.7014">
+					<value lower="25.375" upper="25.375" />
+				</key>
+				<key fixedGrad="true" time="3.03287" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_dw/SC_sofa_gold_14:pos2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_14:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.06667">
+					<value lower="7.12891" upper="7.12891" />
+				</key>
+				<key fixedGrad="true" time="2.35">
+					<value lower="7.13184" upper="7.13184" />
+				</key>
+				<key fixedGrad="true" time="2.5" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.06667">
+					<value lower="15.4238" upper="15.4238" />
+				</key>
+				<key fixedGrad="true" time="2.36667">
+					<value lower="15.4316" upper="15.4316" />
+				</key>
+				<key fixedGrad="true" time="2.5" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_dw/SC_sofa_gold_16:pos2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_16:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.03333">
+					<value lower="12.668" upper="12.668" />
+				</key>
+				<key fixedGrad="true" time="2.35">
+					<value lower="12.668" upper="12.668" />
+				</key>
+				<key fixedGrad="true" time="2.5" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_dw/SC_sofa_gold_7:pos2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_7:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.2" />
+				<key fixedGrad="true" time="2.43333">
+					<value lower="-2.83984" upper="-2.83984" />
+				</key>
+				<key fixedGrad="true" time="2.68333" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.01667">
+					<value lower="4.0127" upper="4.0127" />
+				</key>
+				<key fixedGrad="true" time="2.25">
+					<value lower="4.0127" upper="4.0127" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="2.5">
+					<lgrad lower="-56.1778" upper="-56.1778" />
+				</key>
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_dw/SC_sofa_gold_8:pos2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_8:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.05">
+					<value lower="-4.4502" upper="-4.4502" />
+				</key>
+				<key fixedGrad="true" time="2.15">
+					<value lower="-4.45215" upper="-4.45215" />
+				</key>
+				<key fixedGrad="true" time="2.46667" />
+				<key fixedGrad="true" time="3.46667" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.03333">
+					<value lower="6.7207" upper="6.7207" />
+				</key>
+				<key fixedGrad="true" time="2.18333">
+					<value lower="6.71973" upper="6.71973" />
+				</key>
+				<key fixedGrad="true" time="2.58333" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_dw/SC_sofa_gold_9:pos2d" name="static/SC_sofa/Gold_dw/SC_sofa_gold_9:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.16667">
+					<value lower="5.01758" upper="5.01758" />
+				</key>
+				<key fixedGrad="true" time="2.35">
+					<value lower="5.0166" upper="5.0166" />
+				</key>
+				<key fixedGrad="true" time="2.55" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_dw:pos2d" name="static/SC_sofa/Gold_dw:pos2d_add">
+			<x>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.03333">
+					<value lower="52.1211" upper="52.1211" />
+				</key>
+				<key fixedGrad="true" time="2.2">
+					<rgrad lower="-5.8909" upper="-5.8909" />
+					<value lower="52.1211" upper="52.1211" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="2.41667">
+					<lgrad lower="-903.592" upper="-903.592" />
+					<rgrad lower="200.382" upper="200.382" />
+					<value lower="-3.81641" upper="-3.81641" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="2.48333">
+					<lgrad lower="200.382" upper="200.382" />
+				</key>
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_left/SC_sofa_gold_1:pos2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_1:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" leftCurveMode="Linear" time="0.55">
+					<lgrad lower="276.532" upper="276.532" />
+					<value lower="43.4551" upper="43.4551" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="2.32931">
+					<value lower="43.4541" upper="43.4541" />
+				</key>
+				<key fixedGrad="true" time="2.56378">
+					<value lower="-0.64551" upper="-0.64551" />
+				</key>
+				<key fixedGrad="true" time="2.66452" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_left/SC_sofa_gold_2:pos2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_2:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.15">
+					<value lower="4.17871" upper="4.17871" />
+				</key>
+				<key fixedGrad="true" time="2.75">
+					<value lower="4.17871" upper="4.17871" />
+				</key>
+				<key fixedGrad="true" time="2.98333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.33333" />
+				<key fixedGrad="true" time="2.71667">
+					<value lower="3.72461" upper="3.72461" />
+				</key>
+				<key fixedGrad="true" time="2.89583" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_left/SC_sofa_gold_3:pos2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_3:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.29007" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_left/SC_sofa_gold_5:pos2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_5:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.76667">
+					<value lower="20.1963" upper="20.1963" />
+				</key>
+				<key fixedGrad="true" time="2.51667">
+					<value lower="20.1963" upper="20.1963" />
+				</key>
+				<key fixedGrad="true" time="2.9" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.1">
+					<value lower="1.60742" upper="1.60742" />
+				</key>
+				<key fixedGrad="true" time="2.51667">
+					<value lower="1.60742" upper="1.60742" />
+				</key>
+				<key fixedGrad="true" time="2.66308">
+					<value lower="11.6035" upper="11.6035" />
+				</key>
+				<key fixedGrad="true" time="2.93333">
+					<value lower="-0.9375" upper="-0.9375" />
+				</key>
+				<key fixedGrad="true" time="3.06667" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_left/SC_sofa_gold_6:pos2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_6:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key />
+				<key time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_left:pos2d" name="static/SC_sofa/Gold_left:pos2d_add">
+			<x>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.03333">
+					<value lower="83.751" upper="83.751" />
+				</key>
+				<key fixedGrad="true" time="2.23333">
+					<rgrad lower="96.4204" upper="96.4204" />
+					<value lower="83.751" upper="83.751" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="2.48333">
+					<lgrad lower="-1214.44" upper="-1214.44" />
+					<rgrad lower="35.4368" upper="35.4368" />
+					<value lower="-2.99512" upper="-2.99512" />
+				</key>
+				<key fixedGrad="true" time="2.53333" />
+				<key fixedGrad="true" time="2.66667" />
+				<key fixedGrad="true" time="3.483" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Golde_main:pos2d" name="static/SC_sofa/Golde_main:pos2d_add">
+			<x>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" imaginary="true" leftCurveMode="Linear">
+					<lgrad lower="11416.1" upper="11416.1" />
+				</key>
+				<key fixedGrad="true" time="1.88053" />
+				<key fixedGrad="true" time="2.0">
+					<rgrad lower="-137.157" upper="-137.157" />
+					<value lower="33.8691" upper="33.8691" />
+				</key>
+				<key fixedGrad="true" time="2.15">
+					<lgrad lower="-36.4435" upper="-36.4435" />
+					<value lower="-3.98535" upper="-3.98535" />
+				</key>
+				<key fixedGrad="true" time="2.4" />
+				<key fixedGrad="true" time="3.478" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Open_chest_lid:pos2d" name="static/SC_sofa/Open_chest_lid:pos2d_add">
+			<x>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="1.83333" />
+				<key fixedGrad="true" time="2.0">
+					<value lower="14.8486" upper="14.8486" />
+				</key>
+				<key fixedGrad="true" time="2.15">
+					<rgrad lower="-6.26058" upper="-6.26058" />
+					<value lower="-4.12012" upper="-4.12012" />
+				</key>
+				<key fixedGrad="true" time="2.35033">
+					<lgrad lower="52.2131" upper="52.2131" />
+				</key>
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Sofa_main/Left:pos2d" name="static/SC_sofa/Sofa_main/Left:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.13333" />
+				<key fixedGrad="true" time="0.26667">
+					<value lower="-8.74805" upper="-8.74805" />
+				</key>
+				<key fixedGrad="true" time="0.4">
+					<value lower="5.9668" upper="5.9668" />
+				</key>
+				<key fixedGrad="true" time="0.51667" />
+				<key fixedGrad="true" rightCurveMode="Linear" time="0.78333" />
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.13333" />
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.37361">
+					<rgrad lower="16.1265" upper="16.1265" />
+				</key>
+				<key fixedGrad="true" time="1.49103">
+					<value lower="0.54102" upper="0.54102" />
+				</key>
+				<key fixedGrad="true" time="1.6415">
+					<value lower="-0.65527" upper="-0.65527" />
+				</key>
+				<key fixedGrad="true" time="1.77587">
+					<value lower="0.71094" upper="0.71094" />
+				</key>
+				<key fixedGrad="true" time="1.87633">
+					<value lower="-0.46094" upper="-0.46094" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.99345">
+					<lgrad lower="13.7747" upper="13.7747" />
+				</key>
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.151364" />
+				<key fixedGrad="true" time="0.28333">
+					<value lower="8.60254" upper="8.60254" />
+				</key>
+				<key fixedGrad="true" time="0.45" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Sofa_main/Right:pos2d" name="static/SC_sofa/Sofa_main/Right:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.15" />
+				<key fixedGrad="true" time="0.26816">
+					<value lower="4.74316" upper="4.74316" />
+				</key>
+				<key fixedGrad="true" time="0.41667">
+					<value lower="-3.7207" upper="-3.7207" />
+				</key>
+				<key fixedGrad="true" time="0.51667" />
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.37367">
+					<rgrad lower="16.1838" upper="16.1838" />
+				</key>
+				<key fixedGrad="true" time="1.49067">
+					<value lower="0.541" upper="0.541" />
+				</key>
+				<key fixedGrad="true" time="1.64067">
+					<value lower="-0.655" upper="-0.655" />
+				</key>
+				<key fixedGrad="true" time="1.77567">
+					<value lower="0.711" upper="0.711" />
+				</key>
+				<key fixedGrad="true" time="1.87567">
+					<value lower="-0.461" upper="-0.461" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.99267">
+					<lgrad lower="13.7906" upper="13.7906" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.15" />
+				<key fixedGrad="true" time="0.283651">
+					<value lower="9.59082" upper="9.59082" />
+				</key>
+				<key fixedGrad="true" time="0.450298" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Sofa_main/SC_sofa_2:pos2d" name="static/SC_sofa/Sofa_main/SC_sofa_2:pos2d_add">
+			<x>
+				<key fixedGrad="true" imaginary="true" leftCurveMode="Linear" />
+				<key fixedGrad="true" time="0.01667" />
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.37361">
+					<rgrad lower="22.922" upper="22.922" />
+				</key>
+				<key fixedGrad="true" time="1.49103">
+					<value lower="0.769" upper="0.769" />
+				</key>
+				<key fixedGrad="true" time="1.63967">
+					<value lower="-0.835" upper="-0.835" />
+				</key>
+				<key fixedGrad="true" time="1.77587">
+					<value lower="0.83" upper="0.83" />
+				</key>
+				<key fixedGrad="true" time="1.87633">
+					<value lower="-0.548" upper="-0.548" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.99345">
+					<lgrad lower="16.3764" upper="16.3764" />
+				</key>
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.18333" />
+				<key fixedGrad="true" time="0.28333">
+					<value lower="4.19727" upper="4.19727" />
+				</key>
+				<key fixedGrad="true" time="0.36667">
+					<value lower="-0.36914" upper="-0.36914" />
+				</key>
+				<key fixedGrad="true" time="0.45" />
+				<key fixedGrad="true" time="0.81667">
+					<rgrad lower="-74.4939" upper="-74.4939" />
+				</key>
+				<key fixedGrad="true" time="0.98333">
+					<lgrad lower="0.13499" upper="0.13499" />
+					<value lower="-2.30762" upper="-2.30762" />
+				</key>
+				<key fixedGrad="true" time="1.15">
+					<value lower="0.20117" upper="0.20117" />
+				</key>
+				<key fixedGrad="true" time="1.33333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_3:pos2d" name="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_3:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.01667">
+					<value lower="9.12891" upper="9.12891" />
+				</key>
+				<key fixedGrad="true" time="0.300361">
+					<value lower="9.12891" upper="9.12891" />
+				</key>
+				<key fixedGrad="true" time="0.433665">
+					<value lower="-1.0957" upper="-1.0957" />
+				</key>
+				<key fixedGrad="true" time="0.58333">
+					<value lower="1.26563" upper="1.26563" />
+				</key>
+				<key fixedGrad="true" time="0.65">
+					<value lower="-0.29395" upper="-0.29395" />
+				</key>
+				<key fixedGrad="true" time="0.8" />
+				<key fixedGrad="true" time="0.91667" />
+				<key fixedGrad="true" time="1.05">
+					<value lower="2.79492" upper="2.79492" />
+				</key>
+				<key fixedGrad="true" rightCurveMode="Linear" time="1.15">
+					<rgrad lower="0.1758" upper="0.1758" />
+					<value lower="-0.01074" upper="-0.01074" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.38333">
+					<lgrad lower="0.1758" upper="0.1758" />
+					<rgrad lower="-27.1206" upper="-27.1206" />
+				</key>
+				<key fixedGrad="true" time="1.45">
+					<value lower="-0.51563" upper="-0.51563" />
+				</key>
+				<key fixedGrad="true" time="1.53333">
+					<value lower="0.50488" upper="0.50488" />
+				</key>
+				<key fixedGrad="true" time="1.66667">
+					<value lower="-0.54199" upper="-0.54199" />
+				</key>
+				<key fixedGrad="true" time="1.76667">
+					<value lower="0.34473" upper="0.34473" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.85">
+					<lgrad lower="-14.3562" upper="-14.3562" />
+				</key>
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" rightCurveMode="Linear" time="0.25">
+					<lgrad lower="-19.65" upper="-19.65" />
+					<rgrad lower="-270.976" upper="-270.976" />
+					<value lower="11.0615" upper="11.0615" />
+				</key>
+				<key fixedGrad="true" rightCurveMode="Linear" time="0.45">
+					<lgrad lower="111.7" upper="111.7" />
+					<rgrad lower="206.621" upper="206.621" />
+					<value lower="-4.42285" upper="-4.42285" />
+				</key>
+				<key fixedGrad="true" rightCurveMode="Linear" time="0.58333">
+					<lgrad lower="-97.0315" upper="-97.0315" />
+					<rgrad lower="-72.4116" upper="-72.4116" />
+					<value lower="3.44824" upper="3.44824" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="0.75">
+					<lgrad lower="-72.4116" upper="-72.4116" />
+					<rgrad lower="0.02058" upper="0.02058" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="0.91667">
+					<lgrad lower="0.02058" upper="0.02058" />
+				</key>
+				<key fixedGrad="true" time="1.05">
+					<value lower="-3.64746" upper="-3.64746" />
+				</key>
+				<key fixedGrad="true" time="1.21667">
+					<value lower="0.38477" upper="0.38477" />
+				</key>
+				<key fixedGrad="true" time="1.36667" />
+				<key fixedGrad="true" time="2.12856" />
+				<key fixedGrad="true" time="2.28333">
+					<value lower="-2.026" upper="-2.026" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="2.44206">
+					<lgrad lower="49.5398" upper="49.5398" />
+					<value lower="0.2207" upper="0.2207" />
+				</key>
+				<key fixedGrad="true" time="2.55732" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_5:pos2d" name="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_5:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.300334" />
+				<key fixedGrad="true" time="0.43333">
+					<value lower="-0.98145" upper="-0.98145" />
+				</key>
+				<key fixedGrad="true" time="0.65" />
+				<key fixedGrad="true" rightCurveMode="Linear" time="0.86667">
+					<rgrad lower="-33.347" upper="-33.347" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.03333">
+					<lgrad lower="-33.347" upper="-33.347" />
+					<rgrad lower="41.68" upper="41.68" />
+					<value lower="-1.58789" upper="-1.58789" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.16667">
+					<lgrad lower="41.68" upper="41.68" />
+					<rgrad lower="0.01994" upper="0.01994" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.3387">
+					<lgrad lower="0.01994" upper="0.01994" />
+					<rgrad lower="-27.0065" upper="-27.0065" />
+				</key>
+				<key fixedGrad="true" time="1.4057">
+					<value lower="-0.516" upper="-0.516" />
+				</key>
+				<key fixedGrad="true" time="1.5">
+					<value lower="0.50586" upper="0.50586" />
+				</key>
+				<key fixedGrad="true" time="1.6227">
+					<value lower="-0.542" upper="-0.542" />
+				</key>
+				<key fixedGrad="true" time="1.7227">
+					<value lower="0.345" upper="0.345" />
+				</key>
+				<key fixedGrad="true" time="1.83333">
+					<value lower="-0.54785" upper="-0.54785" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.91667">
+					<lgrad lower="23.049" upper="23.049" />
+				</key>
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" rightCurveMode="Linear" time="0.233515">
+					<lgrad lower="-19.65" upper="-19.65" />
+					<rgrad lower="-351.381" upper="-351.381" />
+					<value lower="15.688" upper="15.688" />
+				</key>
+				<key fixedGrad="true" rightCurveMode="Linear" time="0.45">
+					<lgrad lower="111.7" upper="111.7" />
+					<rgrad lower="230.683" upper="230.683" />
+					<value lower="-6.0459" upper="-6.0459" />
+				</key>
+				<key fixedGrad="true" rightCurveMode="Linear" time="0.587218">
+					<lgrad lower="-97.032" upper="-97.032" />
+					<rgrad lower="-64.4615" upper="-64.4615" />
+					<value lower="2.99805" upper="2.99805" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="0.75">
+					<lgrad lower="-64.4615" upper="-64.4615" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="0.88333">
+					<lgrad lower="0.02573" upper="0.02573" />
+				</key>
+				<key fixedGrad="true" time="1.01633">
+					<value lower="-3.647" upper="-3.647" />
+				</key>
+				<key fixedGrad="true" time="1.18333">
+					<value lower="0.385" upper="0.385" />
+				</key>
+				<key fixedGrad="true" time="1.33333" />
+				<key fixedGrad="true" time="2.12856" />
+				<key fixedGrad="true" time="2.28333">
+					<value lower="-2.02637" upper="-2.02637" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="2.44206">
+					<lgrad lower="48.7083" upper="48.7083" />
+					<value lower="0.18262" upper="0.18262" />
+				</key>
+				<key fixedGrad="true" time="2.55732" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_6:pos2d" name="static/SC_sofa/Sofa_main/Sofa_back/SC_sofa_6:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.93333" />
+				<key fixedGrad="true" time="1.03333">
+					<value lower="0.25293" upper="0.25293" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.15">
+					<lgrad lower="-7.58768" upper="-7.58768" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.3737">
+					<rgrad lower="16.1388" upper="16.1388" />
+				</key>
+				<key fixedGrad="true" time="1.49103">
+					<value lower="0.54102" upper="0.54102" />
+				</key>
+				<key fixedGrad="true" time="1.6415">
+					<value lower="-0.65527" upper="-0.65527" />
+				</key>
+				<key fixedGrad="true" time="1.77587">
+					<value lower="0.71094" upper="0.71094" />
+				</key>
+				<key fixedGrad="true" time="1.87654">
+					<value lower="-0.46094" upper="-0.46094" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.99338">
+					<lgrad lower="13.8077" upper="13.8077" />
+				</key>
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.2" />
+				<key fixedGrad="true" time="0.26667">
+					<value lower="10.7998" upper="10.7998" />
+				</key>
+				<key fixedGrad="true" time="0.35">
+					<value lower="-0.93066" upper="-0.93066" />
+				</key>
+				<key fixedGrad="true" time="0.41667" />
+				<key fixedGrad="true" time="0.91667" />
+				<key fixedGrad="true" time="1.05">
+					<value lower="-1.81055" upper="-1.81055" />
+				</key>
+				<key fixedGrad="true" time="1.16667">
+					<value lower="0.39844" upper="0.39844" />
+				</key>
+				<key fixedGrad="true" time="1.31667" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Sofa_main/Sofa_back:pos2d" name="static/SC_sofa/Sofa_main/Sofa_back:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Sofa_main:pos2d" name="static/SC_sofa/Sofa_main:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.2">
+					<lgrad lower="56.4214" upper="56.4214" />
+					<rgrad lower="3.95189" upper="3.95189" />
+					<value lower="10.5371" upper="10.5371" />
+				</key>
+				<key fixedGrad="true" time="0.349997">
+					<lgrad lower="-21.7168" upper="-21.7168" />
+					<rgrad lower="-10.1931" upper="-10.1931" />
+					<value lower="-0.88184" upper="-0.88184" />
+				</key>
+				<key fixedGrad="true" rightCurveMode="Linear" time="0.516666">
+					<lgrad lower="24.212" upper="24.212" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="3.5">
+					<rgrad lower="225.43" upper="225.43" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Light_lapm/Lamp:scale2d" name="static/SC_sofa/Light_lapm/Lamp:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_3@customParallaxSprite:alpha" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_3@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.06667">
+					<rgrad lower="-0.18134" upper="-0.18134" />
+				</key>
+				<key fixedGrad="true" time="0.23333">
+					<value lower="1.00098" upper="1.00098" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.00098" upper="1.00098" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_4@customParallaxSprite:alpha" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_4@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<rgrad lower="-0.181" upper="-0.181" />
+				</key>
+				<key fixedGrad="true" time="0.233">
+					<value lower="1.001" upper="1.001" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.001" upper="1.001" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_5@customParallaxSprite:alpha" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_5@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<rgrad lower="-0.181" upper="-0.181" />
+				</key>
+				<key fixedGrad="true" time="0.233">
+					<value lower="1.001" upper="1.001" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.001" upper="1.001" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_6@customParallaxSprite:alpha" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_6@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<rgrad lower="-0.181" upper="-0.181" />
+				</key>
+				<key fixedGrad="true" time="0.233">
+					<value lower="1.001" upper="1.001" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.001" upper="1.001" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_6_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_6_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<rgrad lower="-0.181" upper="-0.181" />
+				</key>
+				<key fixedGrad="true" time="0.233">
+					<value lower="1.001" upper="1.001" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.001" upper="1.001" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_3:scale2d" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_3:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Light_lapm/Lamp/SC_sofa_light_1:active" name="static/SC_sofa/Light_lapm/Lamp/SC_sofa_light_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.01" />
+				</data>
+				<data second="true">
+					<first time="0.024" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Light_lapm/Lamp/SC_sofa_light_1@customParallaxSprite:alpha" name="static/SC_sofa/Light_lapm/Lamp/SC_sofa_light_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<rgrad lower="-0.181" upper="-0.181" />
+				</key>
+				<key fixedGrad="true" time="0.233">
+					<value lower="1.001" upper="1.001" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.001" upper="1.001" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Light_lapm/Lamp/SC_sofa_lamp_1:active" name="static/SC_sofa/Light_lapm/Lamp/SC_sofa_lamp_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.01" />
+				</data>
+				<data second="true">
+					<first time="0.024" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Light_lapm/Lamp/SC_sofa_lamp_1@customParallaxSprite:alpha" name="static/SC_sofa/Light_lapm/Lamp/SC_sofa_lamp_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<rgrad lower="-0.181" upper="-0.181" />
+				</key>
+				<key fixedGrad="true" time="0.233">
+					<value lower="1.001" upper="1.001" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.001" upper="1.001" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Light_lapm/Lamp/SC_sofa_light_2:active" name="static/SC_sofa/Light_lapm/Lamp/SC_sofa_light_2:active">
+			<timeline>
+				<data second="false">
+					<first time="0.033" />
+				</data>
+				<data second="true">
+					<first time="0.076" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Light_lapm/Lamp/SC_sofa_light_2@customParallaxSprite:alpha" name="static/SC_sofa/Light_lapm/Lamp/SC_sofa_light_2@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<rgrad lower="-0.181" upper="-0.181" />
+				</key>
+				<key fixedGrad="true" time="0.233">
+					<value lower="1.001" upper="1.001" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.001" upper="1.001" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Light_lapm/Lamp/SC_sofa_lamp_2:active" name="static/SC_sofa/Light_lapm/Lamp/SC_sofa_lamp_2:active">
+			<timeline>
+				<data second="false">
+					<first time="0.01" />
+				</data>
+				<data second="true">
+					<first time="0.024" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Light_lapm/Lamp/SC_sofa_lamp_2@customParallaxSprite:alpha" name="static/SC_sofa/Light_lapm/Lamp/SC_sofa_lamp_2@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067">
+					<rgrad lower="-0.181" upper="-0.181" />
+				</key>
+				<key fixedGrad="true" time="0.233">
+					<value lower="1.001" upper="1.001" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.001" upper="1.001" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_3:active" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_3:active">
+			<timeline>
+				<data second="false">
+					<first time="0.01" />
+				</data>
+				<data second="true">
+					<first time="0.024" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_4:scale2d" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_4:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_4:active" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_4:active">
+			<timeline>
+				<data second="false">
+					<first time="0.01" />
+				</data>
+				<data second="true">
+					<first time="0.024" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_5:active" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_5:active">
+			<timeline>
+				<data second="false">
+					<first time="0.01" />
+				</data>
+				<data second="true">
+					<first time="0.024" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_5:scale2d" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_5:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_6:scale2d" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_6:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_6:active" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_6:active">
+			<timeline>
+				<data second="false">
+					<first time="0.01" />
+				</data>
+				<data second="true">
+					<first time="0.024" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_6_sh_1:active" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_6_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.01" />
+				</data>
+				<data second="true">
+					<first time="0.024" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Paint/SC_sofa_painting_1:active" name="static/SC_sofa/Paint/SC_sofa_painting_1:active">
+			<timeline>
+				<data second="true">
+					<first time="0.048" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Paint/SC_sofa_painting_1@customParallaxSprite:alpha" name="static/SC_sofa/Paint/SC_sofa_painting_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.25">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Paint/SC_sofa_painting_2:active" name="static/SC_sofa/Paint/SC_sofa_painting_2:active">
+			<timeline>
+				<data second="true">
+					<first time="0.048" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Paint/SC_sofa_painting_2@customParallaxSprite:alpha" name="static/SC_sofa/Paint/SC_sofa_painting_2@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.25">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Paint/SC_sofa_painting_3:active" name="static/SC_sofa/Paint/SC_sofa_painting_3:active">
+			<timeline>
+				<data second="true">
+					<first time="0.048" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Paint/SC_sofa_painting_3@customParallaxSprite:alpha" name="static/SC_sofa/Paint/SC_sofa_painting_3@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.25">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Paint/SC_sofa_painting_4:active" name="static/SC_sofa/Paint/SC_sofa_painting_4:active">
+			<timeline>
+				<data second="true">
+					<first time="0.048" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Paint/SC_sofa_painting_4@customParallaxSprite:alpha" name="static/SC_sofa/Paint/SC_sofa_painting_4@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.25">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Paint/SC_sofa_painting_5:active" name="static/SC_sofa/Paint/SC_sofa_painting_5:active">
+			<timeline>
+				<data second="true">
+					<first time="0.048" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Paint/SC_sofa_painting_5@customParallaxSprite:alpha" name="static/SC_sofa/Paint/SC_sofa_painting_5@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.25">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Paint/SC_sofa_painting_sh_1:active" name="static/SC_sofa/Paint/SC_sofa_painting_sh_1:active">
+			<timeline>
+				<data second="true">
+					<first time="0.048" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Paint/SC_sofa_painting_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/Paint/SC_sofa_painting_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.25">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Paint:scale2d" name="static/SC_sofa/Paint:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.01667">
+					<rgrad lower="7.83142" upper="7.83142" />
+					<value lower="0.09961" upper="0.09961" />
+				</key>
+				<key fixedGrad="true" time="0.3">
+					<value lower="1.08984" upper="1.08984" />
+				</key>
+				<key fixedGrad="true" time="0.41667">
+					<lgrad lower="-0.79197" upper="-0.79197" />
+					<value lower="0.95996" upper="0.95996" />
+				</key>
+				<key fixedGrad="true" time="0.53333">
+					<value lower="1.02832" upper="1.02832" />
+				</key>
+				<key fixedGrad="true" time="0.68333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.46667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.017">
+					<rgrad lower="7.831" upper="7.831" />
+					<value lower="0.1" upper="0.1" />
+				</key>
+				<key fixedGrad="true" time="0.3">
+					<value lower="1.08" upper="1.08" />
+				</key>
+				<key fixedGrad="true" time="0.433">
+					<lgrad lower="-0.792" upper="-0.792" />
+					<value lower="0.96" upper="0.96" />
+				</key>
+				<key fixedGrad="true" time="0.549">
+					<value lower="1.028" upper="1.028" />
+				</key>
+				<key fixedGrad="true" time="0.699">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Paint:rot2d" name="static/SC_sofa/Paint:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" leftCurveMode="Linear" time="2.90756" />
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<rgrad lower="310.748" upper="310.748" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Light_lapm/Lamp:pos2d" name="static/SC_sofa/Light_lapm/Lamp:pos2d_add">
+			<x>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_3:pos2d" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_3:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_4:pos2d" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_4:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_5:pos2d" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_5:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/Chest_box/Effect_chest/Chest_open:active" name="static/SC_sofa/Chest_box/Effect_chest/Chest_open:active">
+			<timeline>
+				<data second="false">
+					<first time="0.523" />
+				</data>
+				<data second="true">
+					<first time="0.571" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Gold_left/SC_sofa_gold_4:pos2d" name="static/SC_sofa/Gold_left/SC_sofa_gold_4:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.15" />
+				<key fixedGrad="true" time="2.46667">
+					<value lower="21.9795" upper="21.9795" />
+				</key>
+				<key fixedGrad="true" time="2.76667" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.3" />
+				<key fixedGrad="true" time="2.51667">
+					<value lower="16.5908" upper="16.5908" />
+				</key>
+				<key fixedGrad="true" time="2.76667" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Light_lapm/SC_sofa_lamp_6:pos2d" name="static/SC_sofa/Light_lapm/SC_sofa_lamp_6:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Light_lapm:pos2d" name="static/SC_sofa/Light_lapm:pos2d_add">
+			<x>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Light_lapm:scale2d" name="static/SC_sofa/Light_lapm:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.017">
+					<rgrad lower="5.8773" upper="5.8773" />
+					<value lower="0.301" upper="0.301" />
+				</key>
+				<key fixedGrad="true" time="0.350411">
+					<value lower="1.11328" upper="1.11328" />
+				</key>
+				<key fixedGrad="true" time="0.51667">
+					<lgrad lower="-0.792" upper="-0.792" />
+					<value lower="0.95898" upper="0.95898" />
+				</key>
+				<key fixedGrad="true" time="0.666">
+					<value lower="1.028" upper="1.028" />
+				</key>
+				<key fixedGrad="true" time="0.816">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.01667">
+					<rgrad lower="10.0736" upper="10.0736" />
+					<value lower="0.30078" upper="0.30078" />
+				</key>
+				<key fixedGrad="true" time="0.35">
+					<value lower="1.113" upper="1.113" />
+				</key>
+				<key fixedGrad="true" time="0.51667">
+					<lgrad lower="-0.792" upper="-0.792" />
+					<value lower="0.95996" upper="0.95996" />
+				</key>
+				<key fixedGrad="true" time="0.666">
+					<value lower="1.028" upper="1.028" />
+				</key>
+				<key fixedGrad="true" time="0.816">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Paint:pos2d" name="static/SC_sofa/Paint:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.5" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Chest_box:scale2d" name="static/SC_sofa/Chest_box:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.417031">
+					<rgrad lower="-10.1006" upper="-10.1006" />
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="0.51667">
+					<lgrad lower="-5.72882" upper="-5.72882" />
+					<rgrad lower="4.28122" upper="4.28122" />
+					<value lower="0.83691" upper="0.83691" />
+				</key>
+				<key fixedGrad="true" time="0.65">
+					<lgrad lower="10.1006" upper="10.1006" />
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.9">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.01667">
+					<value lower="1.13086" upper="1.13086" />
+				</key>
+				<key fixedGrad="true" time="1.18333">
+					<value lower="0.9834" upper="0.9834" />
+				</key>
+				<key fixedGrad="true" time="1.45">
+					<value lower="1.00098" upper="1.00098" />
+				</key>
+				<key fixedGrad="true" time="1.88082">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.99702">
+					<value lower="1.235" upper="1.235" />
+				</key>
+				<key fixedGrad="true" time="2.06667">
+					<value lower="0.99902" upper="0.99902" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="0.99902" upper="0.99902" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.83333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.01667">
+					<value lower="0.91992" upper="0.91992" />
+				</key>
+				<key fixedGrad="true" time="1.16667">
+					<lgrad lower="0.04728" upper="0.04728" />
+					<value lower="1.01172" upper="1.01172" />
+				</key>
+				<key fixedGrad="true" time="1.26313">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.38906">
+					<value lower="0.94238" upper="0.94238" />
+				</key>
+				<key fixedGrad="true" time="1.5125">
+					<value lower="0.9082" upper="0.9082" />
+				</key>
+				<key fixedGrad="true" time="1.64533">
+					<value lower="0.8584" upper="0.8584" />
+				</key>
+				<key fixedGrad="true" time="1.77839">
+					<value lower="0.81055" upper="0.81055" />
+				</key>
+				<key fixedGrad="true" time="1.88082">
+					<value lower="0.90723" upper="0.90723" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="2.0">
+					<lgrad lower="9.63602" upper="9.63602" />
+					<value lower="1.23535" upper="1.23535" />
+				</key>
+				<key fixedGrad="true" time="2.06667">
+					<value lower="0.96484" upper="0.96484" />
+				</key>
+				<key fixedGrad="true" time="2.23015">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid/SC_sofa_chest_cl_2:rot2d" name="static/SC_sofa/Close_chest_lid/SC_sofa_chest_cl_2:rot2d">
+			<param>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Open_chest_lid:skew2d" name="static/SC_sofa/Open_chest_lid:skew2d">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.12837" />
+				<key fixedGrad="true" time="2.3127">
+					<value lower="-16.6299" upper="-16.6299" />
+				</key>
+				<key fixedGrad="true" time="2.48025" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.12818" />
+				<key fixedGrad="true" time="2.31258">
+					<value lower="-2.53613" upper="-2.53613" />
+				</key>
+				<key fixedGrad="true" time="2.48018" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Golde_main/SC_sofa_gold_25:pos2d" name="static/SC_sofa/Golde_main/SC_sofa_gold_25:pos2d">
+			<x>
+				<key>
+					<value lower="666.0" upper="666.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="666.0" upper="666.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1128.0" upper="1128.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1128.0" upper="1128.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Golde_main/SC_sofa_gold_20:pos2d" name="static/SC_sofa/Golde_main/SC_sofa_gold_20:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Golde_main/SC_sofa_gold_21:pos2d" name="static/SC_sofa/Golde_main/SC_sofa_gold_21:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.08333">
+					<value lower="9.27148" upper="9.27148" />
+				</key>
+				<key fixedGrad="true" time="3.00294">
+					<value lower="9.27051" upper="9.27051" />
+				</key>
+				<key fixedGrad="true" time="3.12181" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.03333">
+					<value lower="10.3662" upper="10.3662" />
+				</key>
+				<key fixedGrad="true" time="2.98593">
+					<value lower="10.3662" upper="10.3662" />
+				</key>
+				<key fixedGrad="true" time="3.12181">
+					<value lower="-0.50684" upper="-0.50684" />
+				</key>
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Golde_main/SC_sofa_gold_24:pos2d" name="static/SC_sofa/Golde_main/SC_sofa_gold_24:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="2.68333" />
+				<key fixedGrad="true" time="2.81667">
+					<rgrad lower="29.7446" upper="29.7446" />
+					<value lower="50.501" upper="50.501" />
+				</key>
+				<key fixedGrad="true" time="3.0">
+					<value lower="-2.31348" upper="-2.31348" />
+				</key>
+				<key fixedGrad="true" time="3.15">
+					<value lower="2.14746" upper="2.14746" />
+				</key>
+				<key fixedGrad="true" time="3.45" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Golde_main/SC_sofa_gold_23:pos2d" name="static/SC_sofa/Golde_main/SC_sofa_gold_23:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.05">
+					<value lower="5.65137" upper="5.65137" />
+				</key>
+				<key fixedGrad="true" time="2.95233">
+					<value lower="5.65234" upper="5.65234" />
+				</key>
+				<key fixedGrad="true" time="3.17277" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.21667">
+					<value lower="9.71484" upper="9.71484" />
+				</key>
+				<key fixedGrad="true" time="2.952">
+					<value lower="9.71484" upper="9.71484" />
+				</key>
+				<key fixedGrad="true" time="3.07089" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Golde_main/SC_sofa_gold_22:pos2d" name="static/SC_sofa/Golde_main/SC_sofa_gold_22:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/SC_sofa_chest_1_sh_1:pos2d" name="static/SC_sofa/SC_sofa_chest_1_sh_1:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.433">
+					<rgrad lower="26.915" upper="26.915" />
+				</key>
+				<key fixedGrad="true" time="1.533">
+					<value lower="0.769" upper="0.769" />
+				</key>
+				<key fixedGrad="true" time="1.717">
+					<value lower="-0.835" upper="-0.835" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.72603">
+					<lgrad lower="16.3932" upper="16.3932" />
+				</key>
+				<key fixedGrad="true" time="1.9">
+					<value lower="0.83" upper="0.83" />
+				</key>
+				<key fixedGrad="true" time="2.05">
+					<value lower="-0.548" upper="-0.548" />
+				</key>
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.65" />
+				<key fixedGrad="true" time="0.83333">
+					<value lower="-2.7959" upper="-2.7959" />
+				</key>
+				<key fixedGrad="true" time="1.0">
+					<value lower="-11.1768" upper="-11.1768" />
+				</key>
+				<key fixedGrad="true" time="1.15" />
+				<key fixedGrad="true" time="2.06667" />
+				<key fixedGrad="true" time="2.2">
+					<value lower="-3.44141" upper="-3.44141" />
+				</key>
+				<key fixedGrad="true" time="2.35" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Chest_box:skew2d" name="static/SC_sofa/Chest_box:skew2d">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.25007" />
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.30019">
+					<lgrad lower="96.2046" upper="96.2046" />
+					<rgrad lower="-127.11" upper="-127.11" />
+					<value lower="1.36328" upper="1.36328" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.36655">
+					<lgrad lower="-127.11" upper="-127.11" />
+					<rgrad lower="184.8" upper="184.8" />
+					<value lower="-1.05762" upper="-1.05762" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.41665">
+					<lgrad lower="184.8" upper="184.8" />
+					<rgrad lower="-326.121" upper="-326.097" />
+					<value lower="3.01855" upper="3.01855" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.48328">
+					<lgrad lower="-326.121" upper="-326.097" />
+					<rgrad lower="324.661" upper="324.642" />
+					<value lower="-3.19359" upper="-3.19313" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.54981">
+					<lgrad lower="324.661" upper="324.642" />
+					<rgrad lower="-311.08" upper="-311.08" />
+					<value lower="4.53613" upper="4.53613" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.61678">
+					<lgrad lower="-311.08" upper="-311.08" />
+					<rgrad lower="354.758" upper="354.758" />
+					<value lower="-3.21777" upper="-3.21777" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.66682">
+					<lgrad lower="354.758" upper="354.758" />
+					<rgrad lower="-153.973" upper="-153.973" />
+					<value lower="3.14355" upper="3.14355" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.74999">
+					<lgrad lower="-153.973" upper="-153.973" />
+					<rgrad lower="72.0301" upper="72.0301" />
+					<value lower="-1.37402" upper="-1.37402" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.79997">
+					<lgrad lower="72.0301" upper="72.0301" />
+				</key>
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.25007" />
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.30019">
+					<lgrad lower="-99.2945" upper="-99.2945" />
+					<rgrad lower="92.9858" upper="92.9858" />
+					<value lower="-1.41113" upper="-1.41113" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.36655">
+					<lgrad lower="92.9858" upper="92.9858" />
+					<rgrad lower="-95.0367" upper="-95.0367" />
+					<value lower="0.80273" upper="0.80273" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.41665">
+					<lgrad lower="-95.0367" upper="-95.0367" />
+					<rgrad lower="97.7733" upper="97.7733" />
+					<value lower="-1.45996" upper="-1.45996" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.49993">
+					<lgrad lower="97.7733" upper="97.7733" />
+					<rgrad lower="-85.3807" upper="-85.3807" />
+					<value lower="0.86816" upper="0.86816" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.54994">
+					<lgrad lower="-85.3807" upper="-85.3807" />
+					<rgrad lower="89.79" upper="89.79" />
+					<value lower="-1.57129" upper="-1.57129" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.61665">
+					<lgrad lower="89.79" upper="89.79" />
+					<rgrad lower="-84.8484" upper="-84.8484" />
+					<value lower="0.99414" upper="0.99414" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.66677">
+					<lgrad lower="-84.8484" upper="-84.8484" />
+					<rgrad lower="81.9409" upper="81.9409" />
+					<value lower="-1.83398" upper="-1.83398" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.74999">
+					<lgrad lower="81.9409" upper="81.9409" />
+					<rgrad lower="-46.9868" upper="-46.9868" />
+					<value lower="0.89746" upper="0.89746" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.7999">
+					<lgrad lower="-46.9868" upper="-46.9868" />
+				</key>
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Chest_box/Close_chest_lid:skew2d" name="static/SC_sofa/Chest_box/Close_chest_lid:skew2d">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="1.81667" />
+				<key fixedGrad="true" time="2.15" />
+				<key fixedGrad="true" time="3.48333" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.217" />
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.28333">
+					<lgrad lower="43.6458" upper="43.6458" />
+					<rgrad lower="-76.6954" upper="-76.6954" />
+					<value lower="0.82715" upper="0.82715" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.35">
+					<lgrad lower="-76.6954" upper="-76.6954" />
+					<rgrad lower="73.954" upper="73.954" />
+					<value lower="-0.63379" upper="-0.63379" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.43333">
+					<lgrad lower="73.954" upper="73.954" />
+					<rgrad lower="-108.251" upper="-108.198" />
+					<value lower="1.12695" upper="1.12695" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.5">
+					<lgrad lower="-108.251" upper="-108.198" />
+					<rgrad lower="91.8996" upper="91.8576" />
+					<value lower="-0.93507" upper="-0.93407" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.58333">
+					<lgrad lower="91.8996" upper="91.8576" />
+					<rgrad lower="-90.2273" upper="-90.2273" />
+					<value lower="1.25293" upper="1.25293" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.66667">
+					<lgrad lower="-90.2273" upper="-90.2273" />
+					<rgrad lower="105.267" upper="105.267" />
+					<value lower="-0.89551" upper="-0.89551" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.73333">
+					<lgrad lower="105.267" upper="105.267" />
+					<rgrad lower="-65.4885" upper="-65.4885" />
+					<value lower="1.10938" upper="1.10938" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" rightCurveMode="Linear" time="1.83333">
+					<lgrad lower="-65.4885" upper="-65.4885" />
+					<rgrad lower="38.8237" upper="38.8237" />
+					<value lower="-0.76172" upper="-0.76172" />
+				</key>
+				<key fixedGrad="true" leftCurveMode="Linear" time="1.902">
+					<lgrad lower="38.8237" upper="38.8237" />
+				</key>
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_3:skew2d" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_3:skew2d">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="1.85" />
+				<key fixedGrad="true" time="2.45" />
+				<key fixedGrad="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_3:scale2d" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_3:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_4:skew2d" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_4:skew2d">
+			<x>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_4:scale2d" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_4:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_5:skew2d" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_5:skew2d">
+			<x>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_5:scale2d" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_5:scale2d">
+			<x>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key>
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_3:rot2d" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_3:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_4:rot2d" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_4:rot2d">
+			<param>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Open_chest_lid/SC_sofa_chest_5:rot2d" name="static/SC_sofa/Open_chest_lid/SC_sofa_chest_5:rot2d">
+			<param>
+				<key />
+				<key imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Right/SC_sofa_4:rot2d" name="static/SC_sofa/Sofa_main/Right/SC_sofa_4:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.06667" />
+				<key fixedGrad="true" time="0.28333">
+					<value lower="-2.97656" upper="-2.97656" />
+				</key>
+				<key fixedGrad="true" time="0.567365" />
+				<key fixedGrad="true" time="0.93333" />
+				<key fixedGrad="true" time="1.05">
+					<value lower="-2.04492" upper="-2.04492" />
+				</key>
+				<key fixedGrad="true" time="1.18333">
+					<value lower="0.45508" upper="0.45508" />
+				</key>
+				<key fixedGrad="true" time="1.33333" />
+				<key fixedGrad="true" time="2.07486" />
+				<key fixedGrad="true" time="2.20871">
+					<value lower="-2.84375" upper="-2.84375" />
+				</key>
+				<key fixedGrad="true" time="2.38116">
+					<value lower="0.12305" upper="0.12305" />
+				</key>
+				<key fixedGrad="true" time="2.51524" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Left/SC_sofa_8:rot2d" name="static/SC_sofa/Sofa_main/Left/SC_sofa_8:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.067" />
+				<key fixedGrad="true" time="0.28333">
+					<value lower="7.24512" upper="7.24512" />
+				</key>
+				<key fixedGrad="true" time="0.684043" />
+				<key fixedGrad="true" time="0.916663" />
+				<key fixedGrad="true" time="1.05">
+					<value lower="2.85352" upper="2.85352" />
+				</key>
+				<key fixedGrad="true" time="1.18333">
+					<value lower="-0.27539" upper="-0.27539" />
+				</key>
+				<key fixedGrad="true" time="1.33333" />
+				<key fixedGrad="true" time="2.07936" />
+				<key fixedGrad="true" time="2.21351">
+					<value lower="1.74414" upper="1.74414" />
+				</key>
+				<key fixedGrad="true" time="2.38129">
+					<value lower="-0.10742" upper="-0.10742" />
+				</key>
+				<key fixedGrad="true" time="2.51534" />
+				<key fixedGrad="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sofa_main/Left/SC_sofa_8:scale2d" name="static/SC_sofa/Sofa_main/Left/SC_sofa_8:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.88333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.0">
+					<value lower="0.96191" upper="0.96191" />
+				</key>
+				<key fixedGrad="true" time="1.11667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.07936">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.21356">
+					<value lower="0.93066" upper="0.93066" />
+				</key>
+				<key fixedGrad="true" time="2.38119">
+					<value lower="1.00879" upper="1.00879" />
+				</key>
+				<key fixedGrad="true" time="2.51524">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sofa_main/Right/SC_sofa_4:scale2d" name="static/SC_sofa/Sofa_main/Right/SC_sofa_4:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.88333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.0">
+					<value lower="0.97754" upper="0.97754" />
+				</key>
+				<key fixedGrad="true" time="1.13333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.07465">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="2.20867">
+					<value lower="0.97852" upper="0.97852" />
+				</key>
+				<key fixedGrad="true" time="2.38117">
+					<value lower="1.00586" upper="1.00586" />
+				</key>
+				<key fixedGrad="true" time="2.51534">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sofa_main/Left/SC_sofa_7:scale2d" name="static/SC_sofa/Sofa_main/Left/SC_sofa_7:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.91667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.0">
+					<value lower="0.96484" upper="0.96484" />
+				</key>
+				<key fixedGrad="true" time="1.1">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/Sofa_main/Right/SC_sofa_1:scale2d" name="static/SC_sofa/Sofa_main/Right/SC_sofa_1:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="0.93333">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.03333">
+					<value lower="0.98242" upper="0.98242" />
+				</key>
+				<key fixedGrad="true" time="1.11667">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Right/SC_sofa_1:rot2d" name="static/SC_sofa/Sofa_main/Right/SC_sofa_1:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.883336">
+					<value lower="0.02051" upper="0.02051" />
+				</key>
+				<key fixedGrad="true" time="1.03333">
+					<value lower="-2.5" upper="-2.5" />
+				</key>
+				<key fixedGrad="true" time="1.16667">
+					<value lower="0.49512" upper="0.49512" />
+				</key>
+				<key fixedGrad="true" time="1.31667">
+					<value lower="0.02051" upper="0.02051" />
+				</key>
+				<key fixedGrad="true" time="2.15163" />
+				<key fixedGrad="true" time="2.30298">
+					<value lower="-1.15332" upper="-1.15332" />
+				</key>
+				<key fixedGrad="true" time="2.47133" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/Sofa_main/Left/SC_sofa_7:rot2d" name="static/SC_sofa/Sofa_main/Left/SC_sofa_7:rot2d">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.88333" />
+				<key fixedGrad="true" time="1.03333">
+					<value lower="2.24512" upper="2.24512" />
+				</key>
+				<key fixedGrad="true" time="1.16667">
+					<value lower="-0.16406" upper="-0.16406" />
+				</key>
+				<key fixedGrad="true" time="1.31667">
+					<value lower="-0.01563" upper="-0.01563" />
+				</key>
+				<key fixedGrad="true" time="2.15193" />
+				<key fixedGrad="true" time="2.3">
+					<value lower="1.96484" upper="1.96484" />
+				</key>
+				<key fixedGrad="true" time="2.48333">
+					<value lower="-0.0459" upper="-0.0459" />
+				</key>
+				<key fixedGrad="true" time="2.71667" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</param>
+		</ptr>
+	</track>
+	<track type="bool">
+		<ptr binding="static/SC_sofa/SC_sofa_seaweed_2_sh_1:active" name="static/SC_sofa/SC_sofa_seaweed_2_sh_1:active">
+			<timeline>
+				<data second="false">
+					<first time="0.138" />
+				</data>
+				<data second="true">
+					<first time="0.19" />
+				</data>
+			</timeline>
+		</ptr>
+	</track>
+	<track type="float">
+		<ptr binding="static/SC_sofa/SC_sofa_seaweed_2_sh_1@customParallaxSprite:alpha" name="static/SC_sofa/SC_sofa_seaweed_2_sh_1@customParallaxSprite:alpha">
+			<param>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.85" />
+				<key fixedGrad="true" time="1.25">
+					<value lower="1.0" upper="1.00001" />
+				</key>
+				<key fixedGrad="true" time="1.75">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" time="1.88333">
+					<value lower="0.72754" upper="0.72754" />
+				</key>
+				<key fixedGrad="true" time="2.31667">
+					<value lower="0.72754" upper="0.72754" />
+				</key>
+				<key fixedGrad="true" time="2.4">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</param>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr binding="static/SC_sofa/SC_sofa_2_sh_1:scale2d" name="static/SC_sofa/SC_sofa_2_sh_1:scale2d">
+			<x>
+				<key fixedGrad="true">
+					<value lower="0.1" upper="0.1" />
+				</key>
+				<key fixedGrad="true" time="0.216">
+					<value lower="1.2" upper="1.2" />
+				</key>
+				<key fixedGrad="true" time="0.383">
+					<rgrad lower="0.874" upper="0.874" />
+					<value lower="0.939" upper="0.939" />
+				</key>
+				<key fixedGrad="true" time="0.55">
+					<value lower="1.012" upper="1.012" />
+				</key>
+				<key fixedGrad="true" time="0.747">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</x>
+			<y>
+				<key fixedGrad="true">
+					<value lower="0.1" upper="0.1" />
+				</key>
+				<key fixedGrad="true" time="0.217">
+					<value lower="1.2" upper="1.2" />
+				</key>
+				<key fixedGrad="true" time="0.4">
+					<rgrad lower="1.369" upper="1.369" />
+					<value lower="0.939" upper="0.939" />
+				</key>
+				<key fixedGrad="true" time="0.567">
+					<value lower="1.012" upper="1.012" />
+				</key>
+				<key fixedGrad="true" time="0.767">
+					<value lower="1.0" upper="1.0" />
+				</key>
+				<key fixedGrad="true" imaginary="true" time="3.5">
+					<value lower="1.0" upper="1.0" />
+				</key>
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Sofa_main/Right/SC_sofa_1:pos2d" name="static/SC_sofa/Sofa_main/Right/SC_sofa_1:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.883336" />
+				<key fixedGrad="true" time="1.03333">
+					<value lower="4.31738" upper="4.31738" />
+				</key>
+				<key fixedGrad="true" time="1.16667">
+					<value lower="-0.70898" upper="-0.70898" />
+				</key>
+				<key fixedGrad="true" time="1.31667" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.26667" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Sofa_main/Left/SC_sofa_8:pos2d" name="static/SC_sofa/Sofa_main/Left/SC_sofa_8:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.15" />
+				<key fixedGrad="true" time="0.28333">
+					<value lower="6.04883" upper="6.04883" />
+				</key>
+				<key fixedGrad="true" time="0.43333" />
+				<key fixedGrad="true" time="0.88333" />
+				<key fixedGrad="true" time="1.03333">
+					<value lower="-2.02051" upper="-2.02051" />
+				</key>
+				<key fixedGrad="true" time="1.16667">
+					<value lower="0.16309" upper="0.16309" />
+				</key>
+				<key fixedGrad="true" time="1.31666" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.18333" />
+				<key fixedGrad="true" time="0.33333">
+					<value lower="-13.044" upper="-13.044" />
+				</key>
+				<key fixedGrad="true" time="0.5" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Sofa_main/Right/SC_sofa_4:pos2d" name="static/SC_sofa/Sofa_main/Right/SC_sofa_4:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.883333" />
+				<key fixedGrad="true" time="1.03333">
+					<value lower="2.91895" upper="2.91895" />
+				</key>
+				<key fixedGrad="true" time="1.16667">
+					<value lower="-0.26172" upper="-0.26172" />
+				</key>
+				<key fixedGrad="true" time="1.31667" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+	<track type="fPoint">
+		<ptr additive="true" binding="static/SC_sofa/Sofa_main/Left/SC_sofa_7:pos2d" name="static/SC_sofa/Sofa_main/Left/SC_sofa_7:pos2d_add">
+			<x>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" time="0.88333" />
+				<key fixedGrad="true" time="1.03333">
+					<value lower="-3.49023" upper="-3.49023" />
+				</key>
+				<key fixedGrad="true" time="1.16667">
+					<value lower="0.60938" upper="0.60938" />
+				</key>
+				<key fixedGrad="true" time="1.31667" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</x>
+			<y>
+				<key fixedGrad="true" />
+				<key fixedGrad="true" imaginary="true" time="3.5" />
+			</y>
+		</ptr>
+	</track>
+</asset>
